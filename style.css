@@ -54,6 +54,10 @@
     font-weight: 400;
 }
 
+.foot1 {
+    margin-left: 10px;
+}
+
 @media screen and (max-width: 600px) {
     #divmaket {
         width: 400px;
